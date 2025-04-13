@@ -2,6 +2,9 @@
 
 A web application that allows users to input chords on a music staff and get suggestions for complementary chord sequences using the Cerberus API.
 
+## Video Demo:
+https://youtu.be/ojhdjh8ymyA?si=IPAtC-KX4nzWw8e_
+
 ## Overview
 
 This application enables musicians and composers to:
