@@ -3,7 +3,7 @@
 A web application that allows users to input chords on a music staff and get suggestions for complementary chord sequences using the Cerebras API.
 
 ## Video Demo:
-https://youtu.be/ojhdjh8ymyA?si=IPAtC-KX4nzWw8e_
+https://youtu.be/an2Xq-nYsUk?si=F4NRvrOjKBl5yNXh
 
 ## Overview
 
