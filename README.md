@@ -30,11 +30,6 @@ To use the Cerebras API, you need to:
 const API_KEY = 'YOUR_Cerebras_API_KEY'; // Replace with your actual API key
 ```
 
-3. If necessary, update the API endpoint URL:
-
-```javascript
-const API_ENDPOINT = 'https://api.Cerebras.com/v1/chord-suggestions'; // Replace with actual endpoint
-```
 
 ## How to Use
 
