@@ -1,5 +1,5 @@
 // Configuration
-const API_KEY = 'YOUR_CEREBRUS_API_KEY'; // Replace with your actual API key
+const API_KEY = 'YOUR_CEREBRAS_API_KEY'; // Replace with your actual API key
 const API_ENDPOINT = 'https://api.cerberus.com/v1/chord-suggestions'; // Replace with actual endpoint
 
 // Music notation constants
