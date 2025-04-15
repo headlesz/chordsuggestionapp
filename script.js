@@ -633,7 +633,7 @@ async function fetchChordSuggestions(chord, rootNote) {
             },
             body: JSON.stringify({
                 messages: [{ role: 'user', content: prompt }],
-                model: 'llama-4-scout-17b-16e-instruct',
+                model: 'llama-4-scout-17b-16e-instruct', // llama3.1-8b seems to way more stable at constructing json output
                 temperature: 0.7,
                 max_tokens: 1000
             })
