@@ -1,6 +1,6 @@
 # Chord Completion App
 
-A web application that allows users to input chords on a music staff and get suggestions for complementary chord sequences using the Cerberus API.
+A web application that allows users to input chords on a music staff and get suggestions for complementary chord sequences using the Cerebras API.
 
 ## Video Demo:
 https://youtu.be/ojhdjh8ymyA?si=IPAtC-KX4nzWw8e_
@@ -11,7 +11,7 @@ This application enables musicians and composers to:
 
 1. Input chords by clicking notes on a western music notation staff
 2. Get AI-generated chord sequence suggestions that pair well with the input chord
-3. View the suggested chord sequences along with their emotional qualities, complexity levels, and genre influences as determined by the Cerberus API
+3. View the suggested chord sequences along with their emotional qualities, complexity levels, and genre influences as determined by the Cerebras API
 
 ## Setup
 
@@ -21,19 +21,19 @@ This application enables musicians and composers to:
 
 ## API Configuration
 
-To use the Cerberus API, you need to:
+To use the Cerebras API, you need to:
 
-1. Obtain an API key from the Cerberus service
+1. Obtain an API key from the Cerebras service
 2. Open `script.js` and replace the placeholder API key:
 
 ```javascript
-const API_KEY = 'YOUR_CERBERUS_API_KEY'; // Replace with your actual API key
+const API_KEY = 'YOUR_Cerebras_API_KEY'; // Replace with your actual API key
 ```
 
 3. If necessary, update the API endpoint URL:
 
 ```javascript
-const API_ENDPOINT = 'https://api.cerberus.com/v1/chord-suggestions'; // Replace with actual endpoint
+const API_ENDPOINT = 'https://api.Cerebras.com/v1/chord-suggestions'; // Replace with actual endpoint
 ```
 
 ## How to Use
@@ -59,12 +59,12 @@ const API_ENDPOINT = 'https://api.cerberus.com/v1/chord-suggestions'; // Replace
 - **Interactive Music Staff**: Clickable grid for placing notes
 - **Note Visualization**: Visual representation of placed notes
 - **Preference Selection**: User controls for customizing suggestions
-- **API Integration**: Connection to the Cerberus API for chord suggestions
+- **API Integration**: Connection to the Cerebras API for chord suggestions
 - **Results Display**: Clean presentation of suggested chord sequences
 
 ### API Integration
 
-The application sends the following data to the Cerberus API:
+The application sends the following data to the Cerebras API:
 
 1. **Chord**: Array of note names with octaves (e.g., `["C4", "E4", "G4"]`)
 2. **Include Attributes**: Specifies that the API should return emotion, complexity, and genre information:
