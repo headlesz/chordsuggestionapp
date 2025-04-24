@@ -86,3 +86,5 @@ Tested and compatible with:
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
+
+# Made with <3 during Cerebrus X HuggingFace Hackathon
